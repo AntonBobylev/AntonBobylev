@@ -6,7 +6,7 @@ Full-Stack Software Engineer specializing in B2B SaaS web applications and medic
 
 ### 🚀 Featured Pet Project
 
-* **[SFTOOMI](https://github.com/AntonBobylev/sftoomi)** — *System For The Operations Of Medical Institutions*  
+- **[SFTOOMI](https://github.com/AntonBobylev/sftoomi)** — *System For The Operations Of Medical Institutions*  
   An open-source B2B management platform designed to automate clinical workflows and medical operations. My primary playground for architectural experiments, modern tech stack integration, and scalable system design.
 
 ---
@@ -24,6 +24,15 @@ Full-Stack Software Engineer specializing in B2B SaaS web applications and medic
 ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
+
+---
+
+### 🤖 AI Models I Use
+
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
 
 ---
 
@@ -35,7 +44,7 @@ Full-Stack Software Engineer specializing in B2B SaaS web applications and medic
 
 ### 📝 Tech Writing
 
-* ✍️ I share technical insights, tutorials, and full-stack development practices on **[Habr](https://habr.com/ru/users/antoxabobylev/)**.
+- ✍️ I share technical insights, tutorials, and full-stack development practices on **[Habr](https://habr.com/ru/users/antoxabobylev/)**.
 
 ---
 
@@ -49,5 +58,5 @@ Full-Stack Software Engineer specializing in B2B SaaS web applications and medic
 ---
 
 ### 📍 Location & Timezone
-* 🏙️ **Vologda, Russia / Novi Sad, Serbia**
-* 🕒 **UTC+3 / UTC+1**
+- 🏙️ **Vologda, Russia / Novi Sad, Serbia**
+- 🕒 **UTC+3 / UTC+1**
