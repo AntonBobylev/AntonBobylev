@@ -1,6 +1,13 @@
 # 👋 Hi, I'm Anton!
 
-Full-Stack Software Engineer specializing in B2B SaaS web applications and medical imaging systems (PACS/RIS). Focused on clean architecture, strict type safety, and thoughtful UX/UI.
+Full-Stack Software Engineer specializing in B2B SaaS web applications and medical systems (PACS/RIS). Focused on clean architecture, strict type safety, modular frontend design, and high-performance backend systems.
+
+---
+
+### 🚀 Featured Pet Project
+
+* **[SFTOOMI](https://github.com/AntonBobylev/sftoomi)** — *System For The Operations Of Medical Institutions*  
+  An open-source B2B management platform designed to automate clinical workflows and medical operations. My primary playground for architectural experiments, modern tech stack integration, and scalable system design.
 
 ---
 
