@@ -29,10 +29,7 @@ Full-Stack Software Engineer specializing in B2B SaaS web applications and medic
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AntonBobylev&show_icons=true&theme=dark&count_private=true&include_all_commits=true" height="150" alt="Anton's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonBobylev&layout=compact&theme=dark&hide=csharp,shaderlab" height="150" alt="Top Languages" />
-</p>
+![GitHub Metrics](./github-metrics.svg)
 
 ---
 
